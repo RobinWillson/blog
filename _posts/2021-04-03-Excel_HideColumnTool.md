@@ -1,3 +1,12 @@
+---
+Layout : post
+Title : "Excel Hide Column Tool"
+date : 2021-04-03
+categories : Project
+
+---
+
+
 ## 前言
 
 在工作上，我們往往會收到很多外部單位提供的Excel報表，它可能包含很多資訊，但我們只是想看其中一部分，<BR>
