@@ -55,20 +55,18 @@
 ## 使用說明
 
 1. 相關文件可在Git專案下載<BR>
-
     https://github.com/RobinWillson/20210403_Excel_HideColumnTool
 2. 原始碼位於Module1.vb
 3. 請下載<BR>
-
+    +
     * Excel_Hide_Column_Tool
     * Example_20210403_1
-
 4. 將兩個檔案都開啟
 5. 先到Tool的001頁面<BR>
    點擊"List Opened XLS File"，會列出目前己開啟的Excel檔名<BR>
 我們要調整的目標是Example，在它右邊雙擊滑鼠左鍵後打勾<BR>
 (再次雙擊滑鼠左鍵取消)<BR>
-![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png)<BR>
+![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png)
 6. 往下拉可點擊"List Opened XLS Sheets"<BR>
     這個可以列出Example裡的頁面(sheets)<BR>
     我們要調整的是Sheet1，同樣在右邊雙擊勾選<BR>
