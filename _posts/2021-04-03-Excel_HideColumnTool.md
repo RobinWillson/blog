@@ -68,23 +68,18 @@
    點擊"List Opened XLS File"，會列出目前己開啟的Excel檔名<BR>
 我們要調整的目標是Example，在它右邊雙擊滑鼠左鍵後打勾<BR>
 (再次雙擊滑鼠左鍵取消)<BR>
-<!-- ![](20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png) -->
-![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png)
-
+![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png)<BR>
 6. 往下拉可點擊"List Opened XLS Sheets"<BR>
     這個可以列出Example裡的頁面(sheets)<BR>
     我們要調整的是Sheet1，同樣在右邊雙擊勾選<BR>
 <!-- ![](20210403_Excel_HideColumnTool/2021-04-03-14-46-57.png) -->
 ![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-46-57.png)
-
 7. 接下來觀察Example的Title列表，是由上數下來第8列，這裡需手動填入8<BR>
 <!-- ![](20210403_Excel_HideColumnTool/2021-04-03-15-21-35.png) -->
 ![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-15-21-35.png)
-
 8. 點擊"列出Title選項，就會列出Title，以及各項目所在的行數<BR>
 <!-- ![](20210403_Excel_HideColumnTool/2021-04-03-15-22-38.png) -->
 ![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-15-22-38.png)
-
 9. 跳轉到002頁
 10. 在Setup欄位以下拉式選單選擇想要觀注的項目<BR>
     右邊選擇Y表示要顯示這個項目，<BR>
