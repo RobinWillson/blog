@@ -57,8 +57,7 @@
 1. 相關文件可在Git專案下載<BR>
     https://github.com/RobinWillson/20210403_Excel_HideColumnTool
 2. 原始碼位於Module1.vb
-3. 請下載<BR>
-    +
+3. 請下載
     * Excel_Hide_Column_Tool
     * Example_20210403_1
 4. 將兩個檔案都開啟
