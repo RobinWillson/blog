@@ -68,14 +68,12 @@
    點擊"List Opened XLS File"，會列出目前己開啟的Excel檔名<BR>
 我們要調整的目標是Example，在它右邊雙擊滑鼠左鍵後打勾<BR>
 (再次雙擊滑鼠左鍵取消)<BR>
-
 <!-- ![](20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png) -->
 ![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-42-49.png)
 
 6. 往下拉可點擊"List Opened XLS Sheets"<BR>
     這個可以列出Example裡的頁面(sheets)<BR>
     我們要調整的是Sheet1，同樣在右邊雙擊勾選<BR>
-
 <!-- ![](20210403_Excel_HideColumnTool/2021-04-03-14-46-57.png) -->
 ![](https://picbase0.robin0968.workers.dev/0:/GitBlog/20210403_Excel_HideColumnTool/2021-04-03-14-46-57.png)
 
